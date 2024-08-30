@@ -3,6 +3,6 @@ Simple DDS is a simple Driver Drowsiness Detection System algorithm. Projects us
 
 
 ## Installation
-<code>git clone https://github.com/akinerk/SimpleDDS</code>
+<code>git clone https://github.com/akinerkisa/SimpleDDS</code>
 <p><code>cd SimpleDDS</code></p>
 <p><code>pip install -r requirements.txt</code></p>
